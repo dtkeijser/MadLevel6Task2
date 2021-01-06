@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mad Level 6 Task 2</string>
+    <string name="most_popular_movies">The most popular movies of</string>
+    <string name="year">year</string>
+    <string name="submit">SUBMIT</string>
+    <string name="banner">banner</string>
+    <string name="cover">cover</string>
+    <string name="title">title</string>
+    <string name="date">date</string>
+    <string name="rating">rating</string>
+    <string name="subtitle">subtitle</string>
+    <string name="description">description</string>
+</resources>
