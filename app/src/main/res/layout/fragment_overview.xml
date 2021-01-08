@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.FirstFragment">
+    tools:context=".ui.OverviewFragment">
 
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/textInputLayout4"
@@ -55,6 +55,7 @@
         app:layout_constraintVertical_bias="0.033" />
 
     <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvMovies"
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:layout_marginStart="8dp"

@@ -10,4 +10,6 @@
     <string name="rating">rating</string>
     <string name="subtitle">subtitle</string>
     <string name="description">description</string>
+    <string name="number">number</string>
+    <string name="action_settings">Title</string>
 </resources>
